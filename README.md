@@ -1,2 +1,2 @@
 # IRF-resolusi
-Repository untuk IRF di tahun depan
+Repository untuk resolusi IRF di tahun depan
